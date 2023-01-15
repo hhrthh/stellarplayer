@@ -1,0 +1,2 @@
+# stellarplayer
+stellarplayer-plugins
